@@ -3,4 +3,5 @@
 Clone the repo, then:
 
   bundle
+  bundle exec rake db:migrate db:seed
   bundle exec rails s
